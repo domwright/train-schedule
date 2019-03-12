@@ -1,0 +1,30 @@
+.container {
+    margin: 0 auto;
+    width: 1000px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.header { 
+    background-color: navy;
+    color:white;
+    height: 70px;
+}
+
+
+
+.head {
+    background-color: lightgray;
+}
+
+#paper { 
+    margin-top: 10px;
+    float: left;
+    margin: 10px 2px;
+    margin-left: 350px;
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: lightsteelblue
+}
